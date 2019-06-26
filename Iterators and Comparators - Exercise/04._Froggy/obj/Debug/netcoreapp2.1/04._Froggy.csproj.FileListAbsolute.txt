@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\04._Froggy\bin\Debug\netcoreapp2.1\04._Froggy.deps.json
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\04._Froggy\bin\Debug\netcoreapp2.1\04._Froggy.runtimeconfig.json
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\04._Froggy\bin\Debug\netcoreapp2.1\04._Froggy.runtimeconfig.dev.json
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\04._Froggy\bin\Debug\netcoreapp2.1\04._Froggy.dll
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\04._Froggy\bin\Debug\netcoreapp2.1\04._Froggy.pdb
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\04._Froggy\obj\Debug\netcoreapp2.1\04._Froggy.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\04._Froggy\obj\Debug\netcoreapp2.1\04._Froggy.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\04._Froggy\obj\Debug\netcoreapp2.1\04._Froggy.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\04._Froggy\obj\Debug\netcoreapp2.1\04._Froggy.AssemblyInfo.cs
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\04._Froggy\obj\Debug\netcoreapp2.1\04._Froggy.dll
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\04._Froggy\obj\Debug\netcoreapp2.1\04._Froggy.pdb

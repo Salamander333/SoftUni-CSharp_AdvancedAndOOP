@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Generics - Exercises\02._Generic_Box_of_Integer\bin\Debug\netcoreapp2.1\02._Generic_Box_of_Integer.deps.json
+C:\Users\User\source\repos\Generics - Exercises\02._Generic_Box_of_Integer\bin\Debug\netcoreapp2.1\02._Generic_Box_of_Integer.runtimeconfig.json
+C:\Users\User\source\repos\Generics - Exercises\02._Generic_Box_of_Integer\bin\Debug\netcoreapp2.1\02._Generic_Box_of_Integer.runtimeconfig.dev.json
+C:\Users\User\source\repos\Generics - Exercises\02._Generic_Box_of_Integer\bin\Debug\netcoreapp2.1\02._Generic_Box_of_Integer.dll
+C:\Users\User\source\repos\Generics - Exercises\02._Generic_Box_of_Integer\bin\Debug\netcoreapp2.1\02._Generic_Box_of_Integer.pdb
+C:\Users\User\source\repos\Generics - Exercises\02._Generic_Box_of_Integer\obj\Debug\netcoreapp2.1\02._Generic_Box_of_Integer.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Generics - Exercises\02._Generic_Box_of_Integer\obj\Debug\netcoreapp2.1\02._Generic_Box_of_Integer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Generics - Exercises\02._Generic_Box_of_Integer\obj\Debug\netcoreapp2.1\02._Generic_Box_of_Integer.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Generics - Exercises\02._Generic_Box_of_Integer\obj\Debug\netcoreapp2.1\02._Generic_Box_of_Integer.AssemblyInfo.cs
+C:\Users\User\source\repos\Generics - Exercises\02._Generic_Box_of_Integer\obj\Debug\netcoreapp2.1\02._Generic_Box_of_Integer.dll
+C:\Users\User\source\repos\Generics - Exercises\02._Generic_Box_of_Integer\obj\Debug\netcoreapp2.1\02._Generic_Box_of_Integer.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Arrays - Lab\Arrays - Lab\bin\Debug\netcoreapp2.1\Arrays - Lab.deps.json
+C:\Users\User\source\repos\Arrays - Lab\Arrays - Lab\bin\Debug\netcoreapp2.1\Arrays - Lab.runtimeconfig.json
+C:\Users\User\source\repos\Arrays - Lab\Arrays - Lab\bin\Debug\netcoreapp2.1\Arrays - Lab.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays - Lab\Arrays - Lab\bin\Debug\netcoreapp2.1\Arrays - Lab.dll
+C:\Users\User\source\repos\Arrays - Lab\Arrays - Lab\bin\Debug\netcoreapp2.1\Arrays - Lab.pdb
+C:\Users\User\source\repos\Arrays - Lab\Arrays - Lab\obj\Debug\netcoreapp2.1\Arrays - Lab.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Arrays - Lab\Arrays - Lab\obj\Debug\netcoreapp2.1\Arrays - Lab.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Arrays - Lab\Arrays - Lab\obj\Debug\netcoreapp2.1\Arrays - Lab.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays - Lab\Arrays - Lab\obj\Debug\netcoreapp2.1\Arrays - Lab.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays - Lab\Arrays - Lab\obj\Debug\netcoreapp2.1\Arrays - Lab.dll
+C:\Users\User\source\repos\Arrays - Lab\Arrays - Lab\obj\Debug\netcoreapp2.1\Arrays - Lab.pdb

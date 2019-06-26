@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Arrays - Exercise\Common Elements\bin\Debug\netcoreapp2.1\Common Elements.deps.json
+C:\Users\User\source\repos\Arrays - Exercise\Common Elements\bin\Debug\netcoreapp2.1\Common Elements.runtimeconfig.json
+C:\Users\User\source\repos\Arrays - Exercise\Common Elements\bin\Debug\netcoreapp2.1\Common Elements.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays - Exercise\Common Elements\bin\Debug\netcoreapp2.1\Common Elements.dll
+C:\Users\User\source\repos\Arrays - Exercise\Common Elements\bin\Debug\netcoreapp2.1\Common Elements.pdb
+C:\Users\User\source\repos\Arrays - Exercise\Common Elements\obj\Debug\netcoreapp2.1\Common Elements.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Arrays - Exercise\Common Elements\obj\Debug\netcoreapp2.1\Common Elements.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Arrays - Exercise\Common Elements\obj\Debug\netcoreapp2.1\Common Elements.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays - Exercise\Common Elements\obj\Debug\netcoreapp2.1\Common Elements.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays - Exercise\Common Elements\obj\Debug\netcoreapp2.1\Common Elements.dll
+C:\Users\User\source\repos\Arrays - Exercise\Common Elements\obj\Debug\netcoreapp2.1\Common Elements.pdb

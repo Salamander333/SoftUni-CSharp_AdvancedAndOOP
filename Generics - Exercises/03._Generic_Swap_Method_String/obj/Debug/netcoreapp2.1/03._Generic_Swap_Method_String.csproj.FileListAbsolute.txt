@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Generics - Exercises\03._Generic_Swap_Method_String\bin\Debug\netcoreapp2.1\03._Generic_Swap_Method_String.deps.json
+C:\Users\User\source\repos\Generics - Exercises\03._Generic_Swap_Method_String\bin\Debug\netcoreapp2.1\03._Generic_Swap_Method_String.runtimeconfig.json
+C:\Users\User\source\repos\Generics - Exercises\03._Generic_Swap_Method_String\bin\Debug\netcoreapp2.1\03._Generic_Swap_Method_String.runtimeconfig.dev.json
+C:\Users\User\source\repos\Generics - Exercises\03._Generic_Swap_Method_String\bin\Debug\netcoreapp2.1\03._Generic_Swap_Method_String.dll
+C:\Users\User\source\repos\Generics - Exercises\03._Generic_Swap_Method_String\bin\Debug\netcoreapp2.1\03._Generic_Swap_Method_String.pdb
+C:\Users\User\source\repos\Generics - Exercises\03._Generic_Swap_Method_String\obj\Debug\netcoreapp2.1\03._Generic_Swap_Method_String.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Generics - Exercises\03._Generic_Swap_Method_String\obj\Debug\netcoreapp2.1\03._Generic_Swap_Method_String.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Generics - Exercises\03._Generic_Swap_Method_String\obj\Debug\netcoreapp2.1\03._Generic_Swap_Method_String.AssemblyInfo.cs
+C:\Users\User\source\repos\Generics - Exercises\03._Generic_Swap_Method_String\obj\Debug\netcoreapp2.1\03._Generic_Swap_Method_String.dll
+C:\Users\User\source\repos\Generics - Exercises\03._Generic_Swap_Method_String\obj\Debug\netcoreapp2.1\03._Generic_Swap_Method_String.pdb

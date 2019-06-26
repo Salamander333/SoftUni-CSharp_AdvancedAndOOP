@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Dictionaries - Exercise\06. Courses\bin\Debug\netcoreapp2.1\06. Courses.deps.json
+C:\Users\User\source\repos\Dictionaries - Exercise\06. Courses\bin\Debug\netcoreapp2.1\06. Courses.runtimeconfig.json
+C:\Users\User\source\repos\Dictionaries - Exercise\06. Courses\bin\Debug\netcoreapp2.1\06. Courses.runtimeconfig.dev.json
+C:\Users\User\source\repos\Dictionaries - Exercise\06. Courses\bin\Debug\netcoreapp2.1\06. Courses.dll
+C:\Users\User\source\repos\Dictionaries - Exercise\06. Courses\bin\Debug\netcoreapp2.1\06. Courses.pdb
+C:\Users\User\source\repos\Dictionaries - Exercise\06. Courses\obj\Debug\netcoreapp2.1\06. Courses.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dictionaries - Exercise\06. Courses\obj\Debug\netcoreapp2.1\06. Courses.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Dictionaries - Exercise\06. Courses\obj\Debug\netcoreapp2.1\06. Courses.AssemblyInfo.cs
+C:\Users\User\source\repos\Dictionaries - Exercise\06. Courses\obj\Debug\netcoreapp2.1\06. Courses.dll
+C:\Users\User\source\repos\Dictionaries - Exercise\06. Courses\obj\Debug\netcoreapp2.1\06. Courses.pdb
+C:\Users\User\source\repos\Dictionaries - Exercise\06. Courses\obj\Debug\netcoreapp2.1\06. Courses.csprojAssemblyReference.cache

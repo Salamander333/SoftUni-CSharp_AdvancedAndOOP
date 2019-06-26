@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\01. Train\Lists - Exercise\bin\Debug\netcoreapp2.1\Lists - Exercise.deps.json
+C:\Users\User\source\repos\01. Train\Lists - Exercise\bin\Debug\netcoreapp2.1\Lists - Exercise.runtimeconfig.json
+C:\Users\User\source\repos\01. Train\Lists - Exercise\bin\Debug\netcoreapp2.1\Lists - Exercise.runtimeconfig.dev.json
+C:\Users\User\source\repos\01. Train\Lists - Exercise\bin\Debug\netcoreapp2.1\Lists - Exercise.dll
+C:\Users\User\source\repos\01. Train\Lists - Exercise\bin\Debug\netcoreapp2.1\Lists - Exercise.pdb
+C:\Users\User\source\repos\01. Train\Lists - Exercise\obj\Debug\netcoreapp2.1\Lists - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\01. Train\Lists - Exercise\obj\Debug\netcoreapp2.1\Lists - Exercise.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\01. Train\Lists - Exercise\obj\Debug\netcoreapp2.1\Lists - Exercise.AssemblyInfo.cs
+C:\Users\User\source\repos\01. Train\Lists - Exercise\obj\Debug\netcoreapp2.1\Lists - Exercise.dll
+C:\Users\User\source\repos\01. Train\Lists - Exercise\obj\Debug\netcoreapp2.1\Lists - Exercise.pdb

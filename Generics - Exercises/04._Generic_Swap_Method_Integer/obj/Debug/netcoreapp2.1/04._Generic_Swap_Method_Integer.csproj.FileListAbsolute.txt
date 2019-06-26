@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Generics - Exercises\04._Generic_Swap_Method_Integer\obj\Debug\netcoreapp2.1\04._Generic_Swap_Method_Integer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Generics - Exercises\04._Generic_Swap_Method_Integer\obj\Debug\netcoreapp2.1\04._Generic_Swap_Method_Integer.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Generics - Exercises\04._Generic_Swap_Method_Integer\obj\Debug\netcoreapp2.1\04._Generic_Swap_Method_Integer.AssemblyInfo.cs
+C:\Users\User\source\repos\Generics - Exercises\04._Generic_Swap_Method_Integer\bin\Debug\netcoreapp2.1\04._Generic_Swap_Method_Integer.deps.json
+C:\Users\User\source\repos\Generics - Exercises\04._Generic_Swap_Method_Integer\bin\Debug\netcoreapp2.1\04._Generic_Swap_Method_Integer.runtimeconfig.json
+C:\Users\User\source\repos\Generics - Exercises\04._Generic_Swap_Method_Integer\bin\Debug\netcoreapp2.1\04._Generic_Swap_Method_Integer.runtimeconfig.dev.json
+C:\Users\User\source\repos\Generics - Exercises\04._Generic_Swap_Method_Integer\bin\Debug\netcoreapp2.1\04._Generic_Swap_Method_Integer.dll
+C:\Users\User\source\repos\Generics - Exercises\04._Generic_Swap_Method_Integer\bin\Debug\netcoreapp2.1\04._Generic_Swap_Method_Integer.pdb
+C:\Users\User\source\repos\Generics - Exercises\04._Generic_Swap_Method_Integer\obj\Debug\netcoreapp2.1\04._Generic_Swap_Method_Integer.dll
+C:\Users\User\source\repos\Generics - Exercises\04._Generic_Swap_Method_Integer\obj\Debug\netcoreapp2.1\04._Generic_Swap_Method_Integer.pdb

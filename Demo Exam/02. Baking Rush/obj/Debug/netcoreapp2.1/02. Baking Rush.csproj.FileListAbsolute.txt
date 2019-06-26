@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Demo Exam\02. Baking Rush\bin\Debug\netcoreapp2.1\02. Baking Rush.deps.json
+C:\Users\User\source\repos\Demo Exam\02. Baking Rush\bin\Debug\netcoreapp2.1\02. Baking Rush.runtimeconfig.json
+C:\Users\User\source\repos\Demo Exam\02. Baking Rush\bin\Debug\netcoreapp2.1\02. Baking Rush.runtimeconfig.dev.json
+C:\Users\User\source\repos\Demo Exam\02. Baking Rush\bin\Debug\netcoreapp2.1\02. Baking Rush.dll
+C:\Users\User\source\repos\Demo Exam\02. Baking Rush\bin\Debug\netcoreapp2.1\02. Baking Rush.pdb
+C:\Users\User\source\repos\Demo Exam\02. Baking Rush\obj\Debug\netcoreapp2.1\02. Baking Rush.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Demo Exam\02. Baking Rush\obj\Debug\netcoreapp2.1\02. Baking Rush.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Demo Exam\02. Baking Rush\obj\Debug\netcoreapp2.1\02. Baking Rush.AssemblyInfo.cs
+C:\Users\User\source\repos\Demo Exam\02. Baking Rush\obj\Debug\netcoreapp2.1\02. Baking Rush.dll
+C:\Users\User\source\repos\Demo Exam\02. Baking Rush\obj\Debug\netcoreapp2.1\02. Baking Rush.pdb
+C:\Users\User\source\repos\Demo Exam\02. Baking Rush\obj\Debug\netcoreapp2.1\02. Baking Rush.csprojAssemblyReference.cache

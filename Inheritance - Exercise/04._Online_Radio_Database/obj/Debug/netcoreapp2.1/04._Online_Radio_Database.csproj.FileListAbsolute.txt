@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Inheritance - Exercise\04._Online_Radio_Database\bin\Debug\netcoreapp2.1\04._Online_Radio_Database.deps.json
+C:\Users\User\source\repos\Inheritance - Exercise\04._Online_Radio_Database\bin\Debug\netcoreapp2.1\04._Online_Radio_Database.runtimeconfig.json
+C:\Users\User\source\repos\Inheritance - Exercise\04._Online_Radio_Database\bin\Debug\netcoreapp2.1\04._Online_Radio_Database.runtimeconfig.dev.json
+C:\Users\User\source\repos\Inheritance - Exercise\04._Online_Radio_Database\bin\Debug\netcoreapp2.1\04._Online_Radio_Database.dll
+C:\Users\User\source\repos\Inheritance - Exercise\04._Online_Radio_Database\bin\Debug\netcoreapp2.1\04._Online_Radio_Database.pdb
+C:\Users\User\source\repos\Inheritance - Exercise\04._Online_Radio_Database\obj\Debug\netcoreapp2.1\04._Online_Radio_Database.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Inheritance - Exercise\04._Online_Radio_Database\obj\Debug\netcoreapp2.1\04._Online_Radio_Database.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Inheritance - Exercise\04._Online_Radio_Database\obj\Debug\netcoreapp2.1\04._Online_Radio_Database.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Inheritance - Exercise\04._Online_Radio_Database\obj\Debug\netcoreapp2.1\04._Online_Radio_Database.AssemblyInfo.cs
+C:\Users\User\source\repos\Inheritance - Exercise\04._Online_Radio_Database\obj\Debug\netcoreapp2.1\04._Online_Radio_Database.dll
+C:\Users\User\source\repos\Inheritance - Exercise\04._Online_Radio_Database\obj\Debug\netcoreapp2.1\04._Online_Radio_Database.pdb

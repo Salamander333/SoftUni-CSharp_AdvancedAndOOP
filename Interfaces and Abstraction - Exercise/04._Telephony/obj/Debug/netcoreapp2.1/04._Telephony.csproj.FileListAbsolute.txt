@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\04._Telephony\bin\Debug\netcoreapp2.1\04._Telephony.deps.json
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\04._Telephony\bin\Debug\netcoreapp2.1\04._Telephony.runtimeconfig.json
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\04._Telephony\bin\Debug\netcoreapp2.1\04._Telephony.runtimeconfig.dev.json
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\04._Telephony\bin\Debug\netcoreapp2.1\04._Telephony.dll
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\04._Telephony\bin\Debug\netcoreapp2.1\04._Telephony.pdb
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\04._Telephony\obj\Debug\netcoreapp2.1\04._Telephony.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\04._Telephony\obj\Debug\netcoreapp2.1\04._Telephony.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\04._Telephony\obj\Debug\netcoreapp2.1\04._Telephony.AssemblyInfo.cs
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\04._Telephony\obj\Debug\netcoreapp2.1\04._Telephony.dll
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\04._Telephony\obj\Debug\netcoreapp2.1\04._Telephony.pdb

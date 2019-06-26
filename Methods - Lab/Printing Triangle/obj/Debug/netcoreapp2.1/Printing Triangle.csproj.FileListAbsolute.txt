@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Methods - Lab\Printing Triangle\bin\Debug\netcoreapp2.1\Printing Triangle.deps.json
+C:\Users\User\source\repos\Methods - Lab\Printing Triangle\bin\Debug\netcoreapp2.1\Printing Triangle.runtimeconfig.json
+C:\Users\User\source\repos\Methods - Lab\Printing Triangle\bin\Debug\netcoreapp2.1\Printing Triangle.runtimeconfig.dev.json
+C:\Users\User\source\repos\Methods - Lab\Printing Triangle\bin\Debug\netcoreapp2.1\Printing Triangle.dll
+C:\Users\User\source\repos\Methods - Lab\Printing Triangle\bin\Debug\netcoreapp2.1\Printing Triangle.pdb
+C:\Users\User\source\repos\Methods - Lab\Printing Triangle\obj\Debug\netcoreapp2.1\Printing Triangle.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods - Lab\Printing Triangle\obj\Debug\netcoreapp2.1\Printing Triangle.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Methods - Lab\Printing Triangle\obj\Debug\netcoreapp2.1\Printing Triangle.AssemblyInfo.cs
+C:\Users\User\source\repos\Methods - Lab\Printing Triangle\obj\Debug\netcoreapp2.1\Printing Triangle.dll
+C:\Users\User\source\repos\Methods - Lab\Printing Triangle\obj\Debug\netcoreapp2.1\Printing Triangle.pdb

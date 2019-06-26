@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Functional Programming - Exercises\04. Find Evens or Odds\bin\Debug\netcoreapp2.1\04. Find Evens or Odds.deps.json
+C:\Users\User\source\repos\Functional Programming - Exercises\04. Find Evens or Odds\bin\Debug\netcoreapp2.1\04. Find Evens or Odds.runtimeconfig.json
+C:\Users\User\source\repos\Functional Programming - Exercises\04. Find Evens or Odds\bin\Debug\netcoreapp2.1\04. Find Evens or Odds.runtimeconfig.dev.json
+C:\Users\User\source\repos\Functional Programming - Exercises\04. Find Evens or Odds\bin\Debug\netcoreapp2.1\04. Find Evens or Odds.dll
+C:\Users\User\source\repos\Functional Programming - Exercises\04. Find Evens or Odds\bin\Debug\netcoreapp2.1\04. Find Evens or Odds.pdb
+C:\Users\User\source\repos\Functional Programming - Exercises\04. Find Evens or Odds\obj\Debug\netcoreapp2.1\04. Find Evens or Odds.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Functional Programming - Exercises\04. Find Evens or Odds\obj\Debug\netcoreapp2.1\04. Find Evens or Odds.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Functional Programming - Exercises\04. Find Evens or Odds\obj\Debug\netcoreapp2.1\04. Find Evens or Odds.AssemblyInfo.cs
+C:\Users\User\source\repos\Functional Programming - Exercises\04. Find Evens or Odds\obj\Debug\netcoreapp2.1\04. Find Evens or Odds.dll
+C:\Users\User\source\repos\Functional Programming - Exercises\04. Find Evens or Odds\obj\Debug\netcoreapp2.1\04. Find Evens or Odds.pdb

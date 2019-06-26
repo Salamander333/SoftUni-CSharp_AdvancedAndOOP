@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\03._Ferrari\obj\Debug\netcoreapp2.1\03._Ferrari.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\03._Ferrari\obj\Debug\netcoreapp2.1\03._Ferrari.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\03._Ferrari\obj\Debug\netcoreapp2.1\03._Ferrari.AssemblyInfo.cs
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\03._Ferrari\bin\Debug\netcoreapp2.1\03._Ferrari.deps.json
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\03._Ferrari\bin\Debug\netcoreapp2.1\03._Ferrari.runtimeconfig.json
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\03._Ferrari\bin\Debug\netcoreapp2.1\03._Ferrari.runtimeconfig.dev.json
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\03._Ferrari\bin\Debug\netcoreapp2.1\03._Ferrari.dll
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\03._Ferrari\bin\Debug\netcoreapp2.1\03._Ferrari.pdb
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\03._Ferrari\obj\Debug\netcoreapp2.1\03._Ferrari.dll
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\03._Ferrari\obj\Debug\netcoreapp2.1\03._Ferrari.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Ages\PrintAndSum\bin\Debug\netcoreapp2.1\PrintAndSum.deps.json
+C:\Users\User\source\repos\Ages\PrintAndSum\bin\Debug\netcoreapp2.1\PrintAndSum.runtimeconfig.json
+C:\Users\User\source\repos\Ages\PrintAndSum\bin\Debug\netcoreapp2.1\PrintAndSum.runtimeconfig.dev.json
+C:\Users\User\source\repos\Ages\PrintAndSum\bin\Debug\netcoreapp2.1\PrintAndSum.dll
+C:\Users\User\source\repos\Ages\PrintAndSum\bin\Debug\netcoreapp2.1\PrintAndSum.pdb
+C:\Users\User\source\repos\Ages\PrintAndSum\obj\Debug\netcoreapp2.1\PrintAndSum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ages\PrintAndSum\obj\Debug\netcoreapp2.1\PrintAndSum.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Ages\PrintAndSum\obj\Debug\netcoreapp2.1\PrintAndSum.AssemblyInfo.cs
+C:\Users\User\source\repos\Ages\PrintAndSum\obj\Debug\netcoreapp2.1\PrintAndSum.dll
+C:\Users\User\source\repos\Ages\PrintAndSum\obj\Debug\netcoreapp2.1\PrintAndSum.pdb

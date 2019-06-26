@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Ages\StrongNumber\bin\Debug\netcoreapp2.1\StrongNumber.deps.json
+C:\Users\User\source\repos\Ages\StrongNumber\bin\Debug\netcoreapp2.1\StrongNumber.runtimeconfig.json
+C:\Users\User\source\repos\Ages\StrongNumber\bin\Debug\netcoreapp2.1\StrongNumber.runtimeconfig.dev.json
+C:\Users\User\source\repos\Ages\StrongNumber\bin\Debug\netcoreapp2.1\StrongNumber.dll
+C:\Users\User\source\repos\Ages\StrongNumber\bin\Debug\netcoreapp2.1\StrongNumber.pdb
+C:\Users\User\source\repos\Ages\StrongNumber\obj\Debug\netcoreapp2.1\StrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ages\StrongNumber\obj\Debug\netcoreapp2.1\StrongNumber.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Ages\StrongNumber\obj\Debug\netcoreapp2.1\StrongNumber.AssemblyInfo.cs
+C:\Users\User\source\repos\Ages\StrongNumber\obj\Debug\netcoreapp2.1\StrongNumber.dll
+C:\Users\User\source\repos\Ages\StrongNumber\obj\Debug\netcoreapp2.1\StrongNumber.pdb
+C:\Users\User\source\repos\Ages\StrongNumber\obj\Debug\netcoreapp2.1\StrongNumber.csprojAssemblyReference.cache

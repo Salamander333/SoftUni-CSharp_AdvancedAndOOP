@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\05._Border_Control\obj\Debug\netcoreapp2.1\05._Border_Control.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\05._Border_Control\obj\Debug\netcoreapp2.1\05._Border_Control.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\05._Border_Control\obj\Debug\netcoreapp2.1\05._Border_Control.AssemblyInfo.cs
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\05._Border_Control\bin\Debug\netcoreapp2.1\05._Border_Control.deps.json
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\05._Border_Control\bin\Debug\netcoreapp2.1\05._Border_Control.runtimeconfig.json
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\05._Border_Control\bin\Debug\netcoreapp2.1\05._Border_Control.runtimeconfig.dev.json
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\05._Border_Control\bin\Debug\netcoreapp2.1\05._Border_Control.dll
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\05._Border_Control\bin\Debug\netcoreapp2.1\05._Border_Control.pdb
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\05._Border_Control\obj\Debug\netcoreapp2.1\05._Border_Control.dll
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\05._Border_Control\obj\Debug\netcoreapp2.1\05._Border_Control.pdb

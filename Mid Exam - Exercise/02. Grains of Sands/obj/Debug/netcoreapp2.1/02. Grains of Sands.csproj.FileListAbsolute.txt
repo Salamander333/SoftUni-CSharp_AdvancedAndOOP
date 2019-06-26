@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Mid Exam - Exercise\02. Grains of Sands\bin\Debug\netcoreapp2.1\02. Grains of Sands.deps.json
+C:\Users\User\source\repos\Mid Exam - Exercise\02. Grains of Sands\bin\Debug\netcoreapp2.1\02. Grains of Sands.runtimeconfig.json
+C:\Users\User\source\repos\Mid Exam - Exercise\02. Grains of Sands\bin\Debug\netcoreapp2.1\02. Grains of Sands.runtimeconfig.dev.json
+C:\Users\User\source\repos\Mid Exam - Exercise\02. Grains of Sands\bin\Debug\netcoreapp2.1\02. Grains of Sands.dll
+C:\Users\User\source\repos\Mid Exam - Exercise\02. Grains of Sands\bin\Debug\netcoreapp2.1\02. Grains of Sands.pdb
+C:\Users\User\source\repos\Mid Exam - Exercise\02. Grains of Sands\obj\Debug\netcoreapp2.1\02. Grains of Sands.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Mid Exam - Exercise\02. Grains of Sands\obj\Debug\netcoreapp2.1\02. Grains of Sands.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Mid Exam - Exercise\02. Grains of Sands\obj\Debug\netcoreapp2.1\02. Grains of Sands.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Mid Exam - Exercise\02. Grains of Sands\obj\Debug\netcoreapp2.1\02. Grains of Sands.AssemblyInfo.cs
+C:\Users\User\source\repos\Mid Exam - Exercise\02. Grains of Sands\obj\Debug\netcoreapp2.1\02. Grains of Sands.dll
+C:\Users\User\source\repos\Mid Exam - Exercise\02. Grains of Sands\obj\Debug\netcoreapp2.1\02. Grains of Sands.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Demo Exam\03. Baking Factory\bin\Debug\netcoreapp2.1\03. Baking Factory.deps.json
+C:\Users\User\source\repos\Demo Exam\03. Baking Factory\bin\Debug\netcoreapp2.1\03. Baking Factory.runtimeconfig.json
+C:\Users\User\source\repos\Demo Exam\03. Baking Factory\bin\Debug\netcoreapp2.1\03. Baking Factory.runtimeconfig.dev.json
+C:\Users\User\source\repos\Demo Exam\03. Baking Factory\bin\Debug\netcoreapp2.1\03. Baking Factory.dll
+C:\Users\User\source\repos\Demo Exam\03. Baking Factory\bin\Debug\netcoreapp2.1\03. Baking Factory.pdb
+C:\Users\User\source\repos\Demo Exam\03. Baking Factory\obj\Debug\netcoreapp2.1\03. Baking Factory.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Demo Exam\03. Baking Factory\obj\Debug\netcoreapp2.1\03. Baking Factory.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Demo Exam\03. Baking Factory\obj\Debug\netcoreapp2.1\03. Baking Factory.AssemblyInfo.cs
+C:\Users\User\source\repos\Demo Exam\03. Baking Factory\obj\Debug\netcoreapp2.1\03. Baking Factory.dll
+C:\Users\User\source\repos\Demo Exam\03. Baking Factory\obj\Debug\netcoreapp2.1\03. Baking Factory.pdb

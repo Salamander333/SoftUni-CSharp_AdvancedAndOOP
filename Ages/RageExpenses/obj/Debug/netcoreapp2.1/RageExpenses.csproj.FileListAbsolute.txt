@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Ages\RageExpenses\bin\Debug\netcoreapp2.1\RageExpenses.deps.json
+C:\Users\User\source\repos\Ages\RageExpenses\bin\Debug\netcoreapp2.1\RageExpenses.runtimeconfig.json
+C:\Users\User\source\repos\Ages\RageExpenses\bin\Debug\netcoreapp2.1\RageExpenses.runtimeconfig.dev.json
+C:\Users\User\source\repos\Ages\RageExpenses\bin\Debug\netcoreapp2.1\RageExpenses.dll
+C:\Users\User\source\repos\Ages\RageExpenses\bin\Debug\netcoreapp2.1\RageExpenses.pdb
+C:\Users\User\source\repos\Ages\RageExpenses\obj\Debug\netcoreapp2.1\RageExpenses.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Ages\RageExpenses\obj\Debug\netcoreapp2.1\RageExpenses.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ages\RageExpenses\obj\Debug\netcoreapp2.1\RageExpenses.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Ages\RageExpenses\obj\Debug\netcoreapp2.1\RageExpenses.AssemblyInfo.cs
+C:\Users\User\source\repos\Ages\RageExpenses\obj\Debug\netcoreapp2.1\RageExpenses.dll
+C:\Users\User\source\repos\Ages\RageExpenses\obj\Debug\netcoreapp2.1\RageExpenses.pdb

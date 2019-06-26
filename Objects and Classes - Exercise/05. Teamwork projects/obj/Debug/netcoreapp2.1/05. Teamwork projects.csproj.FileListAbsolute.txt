@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Objects and Classes - Exercise\05. Teamwork projects\bin\Debug\netcoreapp2.1\05. Teamwork projects.deps.json
+C:\Users\User\source\repos\Objects and Classes - Exercise\05. Teamwork projects\bin\Debug\netcoreapp2.1\05. Teamwork projects.runtimeconfig.json
+C:\Users\User\source\repos\Objects and Classes - Exercise\05. Teamwork projects\bin\Debug\netcoreapp2.1\05. Teamwork projects.runtimeconfig.dev.json
+C:\Users\User\source\repos\Objects and Classes - Exercise\05. Teamwork projects\bin\Debug\netcoreapp2.1\05. Teamwork projects.dll
+C:\Users\User\source\repos\Objects and Classes - Exercise\05. Teamwork projects\bin\Debug\netcoreapp2.1\05. Teamwork projects.pdb
+C:\Users\User\source\repos\Objects and Classes - Exercise\05. Teamwork projects\obj\Debug\netcoreapp2.1\05. Teamwork projects.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Objects and Classes - Exercise\05. Teamwork projects\obj\Debug\netcoreapp2.1\05. Teamwork projects.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Objects and Classes - Exercise\05. Teamwork projects\obj\Debug\netcoreapp2.1\05. Teamwork projects.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Objects and Classes - Exercise\05. Teamwork projects\obj\Debug\netcoreapp2.1\05. Teamwork projects.AssemblyInfo.cs
+C:\Users\User\source\repos\Objects and Classes - Exercise\05. Teamwork projects\obj\Debug\netcoreapp2.1\05. Teamwork projects.dll
+C:\Users\User\source\repos\Objects and Classes - Exercise\05. Teamwork projects\obj\Debug\netcoreapp2.1\05. Teamwork projects.pdb

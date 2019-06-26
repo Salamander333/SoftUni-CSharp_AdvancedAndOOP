@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\HelloSofUni\HelloSofUni\bin\Debug\HelloSofUni.exe.config
+C:\Users\User\source\repos\HelloSofUni\HelloSofUni\bin\Debug\HelloSofUni.exe
+C:\Users\User\source\repos\HelloSofUni\HelloSofUni\bin\Debug\HelloSofUni.pdb
+C:\Users\User\source\repos\HelloSofUni\HelloSofUni\obj\Debug\HelloSofUni.csprojAssemblyReference.cache
+C:\Users\User\source\repos\HelloSofUni\HelloSofUni\obj\Debug\HelloSofUni.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HelloSofUni\HelloSofUni\obj\Debug\HelloSofUni.exe
+C:\Users\User\source\repos\HelloSofUni\HelloSofUni\obj\Debug\HelloSofUni.pdb

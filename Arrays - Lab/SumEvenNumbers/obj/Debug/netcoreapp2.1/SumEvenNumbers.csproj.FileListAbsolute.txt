@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Arrays - Lab\SumEvenNumbers\bin\Debug\netcoreapp2.1\SumEvenNumbers.deps.json
+C:\Users\User\source\repos\Arrays - Lab\SumEvenNumbers\bin\Debug\netcoreapp2.1\SumEvenNumbers.runtimeconfig.json
+C:\Users\User\source\repos\Arrays - Lab\SumEvenNumbers\bin\Debug\netcoreapp2.1\SumEvenNumbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays - Lab\SumEvenNumbers\bin\Debug\netcoreapp2.1\SumEvenNumbers.dll
+C:\Users\User\source\repos\Arrays - Lab\SumEvenNumbers\bin\Debug\netcoreapp2.1\SumEvenNumbers.pdb
+C:\Users\User\source\repos\Arrays - Lab\SumEvenNumbers\obj\Debug\netcoreapp2.1\SumEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Arrays - Lab\SumEvenNumbers\obj\Debug\netcoreapp2.1\SumEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays - Lab\SumEvenNumbers\obj\Debug\netcoreapp2.1\SumEvenNumbers.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays - Lab\SumEvenNumbers\obj\Debug\netcoreapp2.1\SumEvenNumbers.dll
+C:\Users\User\source\repos\Arrays - Lab\SumEvenNumbers\obj\Debug\netcoreapp2.1\SumEvenNumbers.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\DataTypesAndVariablesExercises\ExchangeIntegers\bin\Debug\netcoreapp2.1\ExchangeIntegers.deps.json
+C:\Users\User\source\repos\DataTypesAndVariablesExercises\ExchangeIntegers\bin\Debug\netcoreapp2.1\ExchangeIntegers.runtimeconfig.json
+C:\Users\User\source\repos\DataTypesAndVariablesExercises\ExchangeIntegers\bin\Debug\netcoreapp2.1\ExchangeIntegers.runtimeconfig.dev.json
+C:\Users\User\source\repos\DataTypesAndVariablesExercises\ExchangeIntegers\bin\Debug\netcoreapp2.1\ExchangeIntegers.dll
+C:\Users\User\source\repos\DataTypesAndVariablesExercises\ExchangeIntegers\bin\Debug\netcoreapp2.1\ExchangeIntegers.pdb
+C:\Users\User\source\repos\DataTypesAndVariablesExercises\ExchangeIntegers\obj\Debug\netcoreapp2.1\ExchangeIntegers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DataTypesAndVariablesExercises\ExchangeIntegers\obj\Debug\netcoreapp2.1\ExchangeIntegers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DataTypesAndVariablesExercises\ExchangeIntegers\obj\Debug\netcoreapp2.1\ExchangeIntegers.AssemblyInfo.cs
+C:\Users\User\source\repos\DataTypesAndVariablesExercises\ExchangeIntegers\obj\Debug\netcoreapp2.1\ExchangeIntegers.dll
+C:\Users\User\source\repos\DataTypesAndVariablesExercises\ExchangeIntegers\obj\Debug\netcoreapp2.1\ExchangeIntegers.pdb

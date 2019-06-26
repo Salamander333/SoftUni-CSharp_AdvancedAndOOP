@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\01. Train\test\bin\Debug\netcoreapp2.1\test.deps.json
+C:\Users\User\source\repos\01. Train\test\bin\Debug\netcoreapp2.1\test.runtimeconfig.json
+C:\Users\User\source\repos\01. Train\test\bin\Debug\netcoreapp2.1\test.runtimeconfig.dev.json
+C:\Users\User\source\repos\01. Train\test\bin\Debug\netcoreapp2.1\test.dll
+C:\Users\User\source\repos\01. Train\test\bin\Debug\netcoreapp2.1\test.pdb
+C:\Users\User\source\repos\01. Train\test\obj\Debug\netcoreapp2.1\test.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\01. Train\test\obj\Debug\netcoreapp2.1\test.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\01. Train\test\obj\Debug\netcoreapp2.1\test.AssemblyInfo.cs
+C:\Users\User\source\repos\01. Train\test\obj\Debug\netcoreapp2.1\test.dll
+C:\Users\User\source\repos\01. Train\test\obj\Debug\netcoreapp2.1\test.pdb

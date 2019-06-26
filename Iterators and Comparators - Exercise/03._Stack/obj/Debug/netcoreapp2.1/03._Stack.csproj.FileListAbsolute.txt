@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\03._Stack\bin\Debug\netcoreapp2.1\03._Stack.deps.json
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\03._Stack\bin\Debug\netcoreapp2.1\03._Stack.runtimeconfig.json
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\03._Stack\bin\Debug\netcoreapp2.1\03._Stack.runtimeconfig.dev.json
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\03._Stack\bin\Debug\netcoreapp2.1\03._Stack.dll
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\03._Stack\bin\Debug\netcoreapp2.1\03._Stack.pdb
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\03._Stack\obj\Debug\netcoreapp2.1\03._Stack.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\03._Stack\obj\Debug\netcoreapp2.1\03._Stack.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\03._Stack\obj\Debug\netcoreapp2.1\03._Stack.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\03._Stack\obj\Debug\netcoreapp2.1\03._Stack.AssemblyInfo.cs
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\03._Stack\obj\Debug\netcoreapp2.1\03._Stack.dll
+C:\Users\User\source\repos\Iterators and Comparators - Exercise\03._Stack\obj\Debug\netcoreapp2.1\03._Stack.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\08._Military_Elite\bin\Debug\netcoreapp2.1\08._Military_Elite.deps.json
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\08._Military_Elite\bin\Debug\netcoreapp2.1\08._Military_Elite.runtimeconfig.json
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\08._Military_Elite\bin\Debug\netcoreapp2.1\08._Military_Elite.runtimeconfig.dev.json
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\08._Military_Elite\bin\Debug\netcoreapp2.1\08._Military_Elite.dll
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\08._Military_Elite\bin\Debug\netcoreapp2.1\08._Military_Elite.pdb
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\08._Military_Elite\obj\Debug\netcoreapp2.1\08._Military_Elite.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\08._Military_Elite\obj\Debug\netcoreapp2.1\08._Military_Elite.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\08._Military_Elite\obj\Debug\netcoreapp2.1\08._Military_Elite.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\08._Military_Elite\obj\Debug\netcoreapp2.1\08._Military_Elite.AssemblyInfo.cs
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\08._Military_Elite\obj\Debug\netcoreapp2.1\08._Military_Elite.dll
+C:\Users\User\source\repos\Interfaces and Abstraction - Exercise\08._Military_Elite\obj\Debug\netcoreapp2.1\08._Military_Elite.pdb

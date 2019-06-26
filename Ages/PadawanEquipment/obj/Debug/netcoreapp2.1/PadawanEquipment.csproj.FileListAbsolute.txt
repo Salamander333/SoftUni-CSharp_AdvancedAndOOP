@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Ages\PadawanEquipment\bin\Debug\netcoreapp2.1\PadawanEquipment.deps.json
+C:\Users\User\source\repos\Ages\PadawanEquipment\bin\Debug\netcoreapp2.1\PadawanEquipment.runtimeconfig.json
+C:\Users\User\source\repos\Ages\PadawanEquipment\bin\Debug\netcoreapp2.1\PadawanEquipment.runtimeconfig.dev.json
+C:\Users\User\source\repos\Ages\PadawanEquipment\bin\Debug\netcoreapp2.1\PadawanEquipment.dll
+C:\Users\User\source\repos\Ages\PadawanEquipment\bin\Debug\netcoreapp2.1\PadawanEquipment.pdb
+C:\Users\User\source\repos\Ages\PadawanEquipment\obj\Debug\netcoreapp2.1\PadawanEquipment.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Ages\PadawanEquipment\obj\Debug\netcoreapp2.1\PadawanEquipment.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ages\PadawanEquipment\obj\Debug\netcoreapp2.1\PadawanEquipment.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Ages\PadawanEquipment\obj\Debug\netcoreapp2.1\PadawanEquipment.AssemblyInfo.cs
+C:\Users\User\source\repos\Ages\PadawanEquipment\obj\Debug\netcoreapp2.1\PadawanEquipment.dll
+C:\Users\User\source\repos\Ages\PadawanEquipment\obj\Debug\netcoreapp2.1\PadawanEquipment.pdb

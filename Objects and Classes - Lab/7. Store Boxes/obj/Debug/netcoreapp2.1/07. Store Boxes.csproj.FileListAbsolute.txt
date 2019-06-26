@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Objects and Classes - Lab\7. Store Boxes\bin\Debug\netcoreapp2.1\07. Store Boxes.deps.json
+C:\Users\User\source\repos\Objects and Classes - Lab\7. Store Boxes\bin\Debug\netcoreapp2.1\07. Store Boxes.runtimeconfig.json
+C:\Users\User\source\repos\Objects and Classes - Lab\7. Store Boxes\bin\Debug\netcoreapp2.1\07. Store Boxes.runtimeconfig.dev.json
+C:\Users\User\source\repos\Objects and Classes - Lab\7. Store Boxes\bin\Debug\netcoreapp2.1\07. Store Boxes.dll
+C:\Users\User\source\repos\Objects and Classes - Lab\7. Store Boxes\bin\Debug\netcoreapp2.1\07. Store Boxes.pdb
+C:\Users\User\source\repos\Objects and Classes - Lab\7. Store Boxes\obj\Debug\netcoreapp2.1\07. Store Boxes.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Objects and Classes - Lab\7. Store Boxes\obj\Debug\netcoreapp2.1\07. Store Boxes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Objects and Classes - Lab\7. Store Boxes\obj\Debug\netcoreapp2.1\07. Store Boxes.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Objects and Classes - Lab\7. Store Boxes\obj\Debug\netcoreapp2.1\07. Store Boxes.AssemblyInfo.cs
+C:\Users\User\source\repos\Objects and Classes - Lab\7. Store Boxes\obj\Debug\netcoreapp2.1\07. Store Boxes.dll
+C:\Users\User\source\repos\Objects and Classes - Lab\7. Store Boxes\obj\Debug\netcoreapp2.1\07. Store Boxes.pdb

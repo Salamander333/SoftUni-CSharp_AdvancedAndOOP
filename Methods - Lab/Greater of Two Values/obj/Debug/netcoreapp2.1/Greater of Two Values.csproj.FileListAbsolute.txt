@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Methods - Lab\Greater of Two Values\bin\Debug\netcoreapp2.1\Greater of Two Values.deps.json
+C:\Users\User\source\repos\Methods - Lab\Greater of Two Values\bin\Debug\netcoreapp2.1\Greater of Two Values.runtimeconfig.json
+C:\Users\User\source\repos\Methods - Lab\Greater of Two Values\bin\Debug\netcoreapp2.1\Greater of Two Values.runtimeconfig.dev.json
+C:\Users\User\source\repos\Methods - Lab\Greater of Two Values\bin\Debug\netcoreapp2.1\Greater of Two Values.dll
+C:\Users\User\source\repos\Methods - Lab\Greater of Two Values\bin\Debug\netcoreapp2.1\Greater of Two Values.pdb
+C:\Users\User\source\repos\Methods - Lab\Greater of Two Values\obj\Debug\netcoreapp2.1\Greater of Two Values.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods - Lab\Greater of Two Values\obj\Debug\netcoreapp2.1\Greater of Two Values.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Methods - Lab\Greater of Two Values\obj\Debug\netcoreapp2.1\Greater of Two Values.AssemblyInfo.cs
+C:\Users\User\source\repos\Methods - Lab\Greater of Two Values\obj\Debug\netcoreapp2.1\Greater of Two Values.dll
+C:\Users\User\source\repos\Methods - Lab\Greater of Two Values\obj\Debug\netcoreapp2.1\Greater of Two Values.pdb

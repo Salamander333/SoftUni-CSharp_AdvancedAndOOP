@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Objects and Classes - Lab\2. Randomize Words\bin\Debug\netcoreapp2.1\2. Randomize Words.deps.json
+C:\Users\User\source\repos\Objects and Classes - Lab\2. Randomize Words\bin\Debug\netcoreapp2.1\2. Randomize Words.runtimeconfig.json
+C:\Users\User\source\repos\Objects and Classes - Lab\2. Randomize Words\bin\Debug\netcoreapp2.1\2. Randomize Words.runtimeconfig.dev.json
+C:\Users\User\source\repos\Objects and Classes - Lab\2. Randomize Words\bin\Debug\netcoreapp2.1\2. Randomize Words.dll
+C:\Users\User\source\repos\Objects and Classes - Lab\2. Randomize Words\bin\Debug\netcoreapp2.1\2. Randomize Words.pdb
+C:\Users\User\source\repos\Objects and Classes - Lab\2. Randomize Words\obj\Debug\netcoreapp2.1\2. Randomize Words.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Objects and Classes - Lab\2. Randomize Words\obj\Debug\netcoreapp2.1\2. Randomize Words.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Objects and Classes - Lab\2. Randomize Words\obj\Debug\netcoreapp2.1\2. Randomize Words.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Objects and Classes - Lab\2. Randomize Words\obj\Debug\netcoreapp2.1\2. Randomize Words.AssemblyInfo.cs
+C:\Users\User\source\repos\Objects and Classes - Lab\2. Randomize Words\obj\Debug\netcoreapp2.1\2. Randomize Words.dll
+C:\Users\User\source\repos\Objects and Classes - Lab\2. Randomize Words\obj\Debug\netcoreapp2.1\2. Randomize Words.pdb

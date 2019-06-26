@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Objects and Classes - More Exercise\01. Company Roster\bin\Debug\netcoreapp2.1\01. Company Roster.deps.json
+C:\Users\User\source\repos\Objects and Classes - More Exercise\01. Company Roster\bin\Debug\netcoreapp2.1\01. Company Roster.runtimeconfig.json
+C:\Users\User\source\repos\Objects and Classes - More Exercise\01. Company Roster\bin\Debug\netcoreapp2.1\01. Company Roster.runtimeconfig.dev.json
+C:\Users\User\source\repos\Objects and Classes - More Exercise\01. Company Roster\bin\Debug\netcoreapp2.1\01. Company Roster.dll
+C:\Users\User\source\repos\Objects and Classes - More Exercise\01. Company Roster\bin\Debug\netcoreapp2.1\01. Company Roster.pdb
+C:\Users\User\source\repos\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\netcoreapp2.1\01. Company Roster.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\netcoreapp2.1\01. Company Roster.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\netcoreapp2.1\01. Company Roster.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\netcoreapp2.1\01. Company Roster.AssemblyInfo.cs
+C:\Users\User\source\repos\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\netcoreapp2.1\01. Company Roster.dll
+C:\Users\User\source\repos\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\netcoreapp2.1\01. Company Roster.pdb

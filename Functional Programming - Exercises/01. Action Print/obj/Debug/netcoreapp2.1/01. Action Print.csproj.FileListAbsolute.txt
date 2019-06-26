@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Functional Programming - Exercises\01. Action Print\bin\Debug\netcoreapp2.1\01. Action Print.deps.json
+C:\Users\User\source\repos\Functional Programming - Exercises\01. Action Print\bin\Debug\netcoreapp2.1\01. Action Print.runtimeconfig.json
+C:\Users\User\source\repos\Functional Programming - Exercises\01. Action Print\bin\Debug\netcoreapp2.1\01. Action Print.runtimeconfig.dev.json
+C:\Users\User\source\repos\Functional Programming - Exercises\01. Action Print\bin\Debug\netcoreapp2.1\01. Action Print.dll
+C:\Users\User\source\repos\Functional Programming - Exercises\01. Action Print\bin\Debug\netcoreapp2.1\01. Action Print.pdb
+C:\Users\User\source\repos\Functional Programming - Exercises\01. Action Print\obj\Debug\netcoreapp2.1\01. Action Print.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Functional Programming - Exercises\01. Action Print\obj\Debug\netcoreapp2.1\01. Action Print.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Functional Programming - Exercises\01. Action Print\obj\Debug\netcoreapp2.1\01. Action Print.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Functional Programming - Exercises\01. Action Print\obj\Debug\netcoreapp2.1\01. Action Print.AssemblyInfo.cs
+C:\Users\User\source\repos\Functional Programming - Exercises\01. Action Print\obj\Debug\netcoreapp2.1\01. Action Print.dll
+C:\Users\User\source\repos\Functional Programming - Exercises\01. Action Print\obj\Debug\netcoreapp2.1\01. Action Print.pdb

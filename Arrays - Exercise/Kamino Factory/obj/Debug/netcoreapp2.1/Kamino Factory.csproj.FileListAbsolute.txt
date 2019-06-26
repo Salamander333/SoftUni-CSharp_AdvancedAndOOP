@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Arrays - Exercise\Kamino Factory\bin\Debug\netcoreapp2.1\Kamino Factory.deps.json
+C:\Users\User\source\repos\Arrays - Exercise\Kamino Factory\bin\Debug\netcoreapp2.1\Kamino Factory.runtimeconfig.json
+C:\Users\User\source\repos\Arrays - Exercise\Kamino Factory\bin\Debug\netcoreapp2.1\Kamino Factory.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays - Exercise\Kamino Factory\bin\Debug\netcoreapp2.1\Kamino Factory.dll
+C:\Users\User\source\repos\Arrays - Exercise\Kamino Factory\bin\Debug\netcoreapp2.1\Kamino Factory.pdb
+C:\Users\User\source\repos\Arrays - Exercise\Kamino Factory\obj\Debug\netcoreapp2.1\Kamino Factory.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Arrays - Exercise\Kamino Factory\obj\Debug\netcoreapp2.1\Kamino Factory.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Arrays - Exercise\Kamino Factory\obj\Debug\netcoreapp2.1\Kamino Factory.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays - Exercise\Kamino Factory\obj\Debug\netcoreapp2.1\Kamino Factory.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays - Exercise\Kamino Factory\obj\Debug\netcoreapp2.1\Kamino Factory.dll
+C:\Users\User\source\repos\Arrays - Exercise\Kamino Factory\obj\Debug\netcoreapp2.1\Kamino Factory.pdb

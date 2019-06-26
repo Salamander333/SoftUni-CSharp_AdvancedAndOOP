@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Methods - Exercises\Middle Characters\bin\Debug\netcoreapp2.1\Middle Characters.deps.json
+C:\Users\User\source\repos\Methods - Exercises\Middle Characters\bin\Debug\netcoreapp2.1\Middle Characters.runtimeconfig.json
+C:\Users\User\source\repos\Methods - Exercises\Middle Characters\bin\Debug\netcoreapp2.1\Middle Characters.runtimeconfig.dev.json
+C:\Users\User\source\repos\Methods - Exercises\Middle Characters\bin\Debug\netcoreapp2.1\Middle Characters.dll
+C:\Users\User\source\repos\Methods - Exercises\Middle Characters\bin\Debug\netcoreapp2.1\Middle Characters.pdb
+C:\Users\User\source\repos\Methods - Exercises\Middle Characters\obj\Debug\netcoreapp2.1\Middle Characters.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods - Exercises\Middle Characters\obj\Debug\netcoreapp2.1\Middle Characters.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Methods - Exercises\Middle Characters\obj\Debug\netcoreapp2.1\Middle Characters.AssemblyInfo.cs
+C:\Users\User\source\repos\Methods - Exercises\Middle Characters\obj\Debug\netcoreapp2.1\Middle Characters.dll
+C:\Users\User\source\repos\Methods - Exercises\Middle Characters\obj\Debug\netcoreapp2.1\Middle Characters.pdb

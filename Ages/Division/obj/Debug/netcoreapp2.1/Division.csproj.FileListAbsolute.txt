@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Ages\Division\bin\Debug\netcoreapp2.1\Division.deps.json
+C:\Users\User\source\repos\Ages\Division\bin\Debug\netcoreapp2.1\Division.runtimeconfig.json
+C:\Users\User\source\repos\Ages\Division\bin\Debug\netcoreapp2.1\Division.runtimeconfig.dev.json
+C:\Users\User\source\repos\Ages\Division\bin\Debug\netcoreapp2.1\Division.dll
+C:\Users\User\source\repos\Ages\Division\bin\Debug\netcoreapp2.1\Division.pdb
+C:\Users\User\source\repos\Ages\Division\obj\Debug\netcoreapp2.1\Division.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Ages\Division\obj\Debug\netcoreapp2.1\Division.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ages\Division\obj\Debug\netcoreapp2.1\Division.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Ages\Division\obj\Debug\netcoreapp2.1\Division.AssemblyInfo.cs
+C:\Users\User\source\repos\Ages\Division\obj\Debug\netcoreapp2.1\Division.dll
+C:\Users\User\source\repos\Ages\Division\obj\Debug\netcoreapp2.1\Division.pdb

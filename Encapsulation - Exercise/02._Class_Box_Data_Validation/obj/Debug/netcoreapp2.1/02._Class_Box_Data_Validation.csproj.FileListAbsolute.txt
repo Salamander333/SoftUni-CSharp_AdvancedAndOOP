@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Encapsulation - Exercise\02._Class_Box_Data_Validation\bin\Debug\netcoreapp2.1\02._Class_Box_Data_Validation.deps.json
+C:\Users\User\source\repos\Encapsulation - Exercise\02._Class_Box_Data_Validation\bin\Debug\netcoreapp2.1\02._Class_Box_Data_Validation.runtimeconfig.json
+C:\Users\User\source\repos\Encapsulation - Exercise\02._Class_Box_Data_Validation\bin\Debug\netcoreapp2.1\02._Class_Box_Data_Validation.runtimeconfig.dev.json
+C:\Users\User\source\repos\Encapsulation - Exercise\02._Class_Box_Data_Validation\bin\Debug\netcoreapp2.1\02._Class_Box_Data_Validation.dll
+C:\Users\User\source\repos\Encapsulation - Exercise\02._Class_Box_Data_Validation\bin\Debug\netcoreapp2.1\02._Class_Box_Data_Validation.pdb
+C:\Users\User\source\repos\Encapsulation - Exercise\02._Class_Box_Data_Validation\obj\Debug\netcoreapp2.1\02._Class_Box_Data_Validation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Encapsulation - Exercise\02._Class_Box_Data_Validation\obj\Debug\netcoreapp2.1\02._Class_Box_Data_Validation.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Encapsulation - Exercise\02._Class_Box_Data_Validation\obj\Debug\netcoreapp2.1\02._Class_Box_Data_Validation.AssemblyInfo.cs
+C:\Users\User\source\repos\Encapsulation - Exercise\02._Class_Box_Data_Validation\obj\Debug\netcoreapp2.1\02._Class_Box_Data_Validation.dll
+C:\Users\User\source\repos\Encapsulation - Exercise\02._Class_Box_Data_Validation\obj\Debug\netcoreapp2.1\02._Class_Box_Data_Validation.pdb

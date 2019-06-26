@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Encapsulation - Exercise\01._Class_Box\bin\Debug\netcoreapp2.1\01._Class_Box.deps.json
+C:\Users\User\source\repos\Encapsulation - Exercise\01._Class_Box\bin\Debug\netcoreapp2.1\01._Class_Box.runtimeconfig.json
+C:\Users\User\source\repos\Encapsulation - Exercise\01._Class_Box\bin\Debug\netcoreapp2.1\01._Class_Box.runtimeconfig.dev.json
+C:\Users\User\source\repos\Encapsulation - Exercise\01._Class_Box\bin\Debug\netcoreapp2.1\01._Class_Box.dll
+C:\Users\User\source\repos\Encapsulation - Exercise\01._Class_Box\bin\Debug\netcoreapp2.1\01._Class_Box.pdb
+C:\Users\User\source\repos\Encapsulation - Exercise\01._Class_Box\obj\Debug\netcoreapp2.1\01._Class_Box.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Encapsulation - Exercise\01._Class_Box\obj\Debug\netcoreapp2.1\01._Class_Box.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Encapsulation - Exercise\01._Class_Box\obj\Debug\netcoreapp2.1\01._Class_Box.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Encapsulation - Exercise\01._Class_Box\obj\Debug\netcoreapp2.1\01._Class_Box.AssemblyInfo.cs
+C:\Users\User\source\repos\Encapsulation - Exercise\01._Class_Box\obj\Debug\netcoreapp2.1\01._Class_Box.dll
+C:\Users\User\source\repos\Encapsulation - Exercise\01._Class_Box\obj\Debug\netcoreapp2.1\01._Class_Box.pdb

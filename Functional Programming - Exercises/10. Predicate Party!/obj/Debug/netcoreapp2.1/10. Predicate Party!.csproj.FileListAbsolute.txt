@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Functional Programming - Exercises\10. Predicate Party!\bin\Debug\netcoreapp2.1\10. Predicate Party!.deps.json
+C:\Users\User\source\repos\Functional Programming - Exercises\10. Predicate Party!\bin\Debug\netcoreapp2.1\10. Predicate Party!.runtimeconfig.json
+C:\Users\User\source\repos\Functional Programming - Exercises\10. Predicate Party!\bin\Debug\netcoreapp2.1\10. Predicate Party!.runtimeconfig.dev.json
+C:\Users\User\source\repos\Functional Programming - Exercises\10. Predicate Party!\bin\Debug\netcoreapp2.1\10. Predicate Party!.dll
+C:\Users\User\source\repos\Functional Programming - Exercises\10. Predicate Party!\bin\Debug\netcoreapp2.1\10. Predicate Party!.pdb
+C:\Users\User\source\repos\Functional Programming - Exercises\10. Predicate Party!\obj\Debug\netcoreapp2.1\10. Predicate Party!.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Functional Programming - Exercises\10. Predicate Party!\obj\Debug\netcoreapp2.1\10. Predicate Party!.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Functional Programming - Exercises\10. Predicate Party!\obj\Debug\netcoreapp2.1\10. Predicate Party!.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Functional Programming - Exercises\10. Predicate Party!\obj\Debug\netcoreapp2.1\10. Predicate Party!.AssemblyInfo.cs
+C:\Users\User\source\repos\Functional Programming - Exercises\10. Predicate Party!\obj\Debug\netcoreapp2.1\10. Predicate Party!.dll
+C:\Users\User\source\repos\Functional Programming - Exercises\10. Predicate Party!\obj\Debug\netcoreapp2.1\10. Predicate Party!.pdb

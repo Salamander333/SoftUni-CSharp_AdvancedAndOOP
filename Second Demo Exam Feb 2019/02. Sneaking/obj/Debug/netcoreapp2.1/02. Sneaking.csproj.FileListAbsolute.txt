@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Second Demo Exam Feb 2019\02. Sneaking\bin\Debug\netcoreapp2.1\02. Sneaking.deps.json
+C:\Users\User\source\repos\Second Demo Exam Feb 2019\02. Sneaking\bin\Debug\netcoreapp2.1\02. Sneaking.runtimeconfig.json
+C:\Users\User\source\repos\Second Demo Exam Feb 2019\02. Sneaking\bin\Debug\netcoreapp2.1\02. Sneaking.runtimeconfig.dev.json
+C:\Users\User\source\repos\Second Demo Exam Feb 2019\02. Sneaking\bin\Debug\netcoreapp2.1\02. Sneaking.dll
+C:\Users\User\source\repos\Second Demo Exam Feb 2019\02. Sneaking\bin\Debug\netcoreapp2.1\02. Sneaking.pdb
+C:\Users\User\source\repos\Second Demo Exam Feb 2019\02. Sneaking\obj\Debug\netcoreapp2.1\02. Sneaking.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Second Demo Exam Feb 2019\02. Sneaking\obj\Debug\netcoreapp2.1\02. Sneaking.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Second Demo Exam Feb 2019\02. Sneaking\obj\Debug\netcoreapp2.1\02. Sneaking.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Second Demo Exam Feb 2019\02. Sneaking\obj\Debug\netcoreapp2.1\02. Sneaking.AssemblyInfo.cs
+C:\Users\User\source\repos\Second Demo Exam Feb 2019\02. Sneaking\obj\Debug\netcoreapp2.1\02. Sneaking.dll
+C:\Users\User\source\repos\Second Demo Exam Feb 2019\02. Sneaking\obj\Debug\netcoreapp2.1\02. Sneaking.pdb
